@@ -28,3 +28,9 @@ export const TextHeader = styled.Text`
   font-weight: 400;
   padding: 5px 10px;
 `;
+
+export const Logo = styled.View``;
+
+export const Buttons = styled.View`
+  flex-direction: row;
+`;
